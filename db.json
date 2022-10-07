@@ -1,0 +1,76 @@
+{
+  "testUsers": [
+    {
+      "name": "Василий Иванов",
+      "phone": "+7 999 342 24-23",
+      "email": "vasyaI@domen.com",
+      "product": "course-html",
+      "status": "new"
+    },
+    {
+      "name": "Мария Звягина",
+      "phone": "+7 992 231 11-99",
+      "email": "zvyagina@domen.com",
+      "product": "course-js",
+      "status": "new"
+    },
+    {
+      "name": "Сергей Смирнов",
+      "phone": "+7 666 912 22-86",
+      "email": "smirnovS@domen.com",
+      "product": "course-vue",
+      "status": "new"
+    },
+    {
+      "name": "Антон Климкин",
+      "phone": "+7 324 111 90-33",
+      "email": "klimkinAntor@domen.com",
+      "product": "course-php",
+      "status": "new"
+    },
+    {
+      "name": "Екатерина Солнцева",
+      "phone": "+7 555 123 32-11",
+      "email": "ekaterinaS@domen.com",
+      "product": "course-wordpress",
+      "status": "new"
+    },
+    {
+      "name": "лександра Кирсанова",
+      "phone": "+7 222 321 55-12",
+      "email": "aleksandraK@domen.com",
+      "product": "course-html",
+      "status": "new"
+    }
+  ],
+
+  "Products": [
+    {
+      "product1": "course-html",
+      "product2": "course-js",
+      "product3": "course-vue",
+      "product4": "course-php",
+      "product5": "course-wordpress"
+    }
+  ],
+
+  "Status": [
+    {
+      "new": "Новая",
+      "inwork": "В работе",
+      "complete": "Выполнена"
+    }
+  ],
+
+  "ProdUsers": [
+    {
+      "date": "none",
+      "name": "none",
+      "phone": "none",
+      "email": "none",
+      "product": "none",
+      "status": "none",
+      "id": "none"
+    }
+  ]
+}
